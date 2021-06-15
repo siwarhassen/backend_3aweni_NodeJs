@@ -1,0 +1,23 @@
+.button_primary {
+  min-height: 55px;
+  color: #000;
+  cursor: pointer;
+  border: 1px solid #fff !important;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.button_primary:hover {
+  box-shadow: 0 0 8px #39b0ff94 !important;
+}
+
+.bgBlue {
+  background-color: #39b1ff !important;
+  color: #fff !important;
+}
+
+
+
+.bgBlue:hover {
+  background-color: #2293df !important;
+}

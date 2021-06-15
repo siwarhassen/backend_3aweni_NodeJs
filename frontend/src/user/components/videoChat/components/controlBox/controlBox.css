@@ -1,0 +1,7 @@
+.bottom__button__box {
+  background: linear-gradient(to top, rgba(22, 22, 22, 0.795), transparent);
+  bottom: -13%;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.8s;
+}

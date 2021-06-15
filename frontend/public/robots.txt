@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /chat
+Disallow: /group
+Disallow: /
+Allow: /*.js?* 
+Sitemap: http://www.3aweni.heroku.com

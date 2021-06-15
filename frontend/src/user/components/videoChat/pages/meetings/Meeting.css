@@ -1,0 +1,18 @@
+.meeting__page {
+  height: 100vh;
+}
+.meeting__box {
+  transition: 0.5s;
+  border-radius: 10px;
+}
+.vedio__box {
+  width: 80%;
+  height: 80%;
+  position: absolute;
+  margin-top: -720px;
+  margin-left: 950px;
+}
+.video {
+  width: 100% !important;
+  max-height: 100% !important;
+}

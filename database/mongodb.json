@@ -1,0 +1,6 @@
+{
+	"mongo":{
+		"MONGO_URI":"mongodb+srv://3aweni:3aweni@cluster0.jx5fd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+	}
+}
+

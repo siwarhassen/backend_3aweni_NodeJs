@@ -1,0 +1,26 @@
+.square__button {
+  margin-right: 35px;
+  cursor: pointer;
+  transition: 0.5s !important;
+}
+
+.button {
+  font-size: 40px;
+  border-radius: 15px;
+}
+
+.orange {
+  background-color: #fc682d !important;
+  transition: 0.5s;
+}
+.blue {
+  background-color: #39b1ff !important;
+  transition: 0.5s;
+}
+.orange:hover {
+  background-color: #e45117 !important;
+}
+
+.blue:hover {
+  background-color: #2089cf !important;
+}
